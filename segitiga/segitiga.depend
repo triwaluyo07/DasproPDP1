@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506947747 source:d:\segitiga\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507036984 source:f:\daspro\segitiga\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507037384 source:g:\daspro\pdp1\segitiga\main.c
+	<stdio.h>
+	<stdlib.h>
+

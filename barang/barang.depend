@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506949460 source:d:\barang\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506950442 source:f:\daspro\pdp1\barang\main.c
+	<stdio.h>
+	<stdlib.h>
+
